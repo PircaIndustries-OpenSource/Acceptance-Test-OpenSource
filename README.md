@@ -1,3 +1,3 @@
-## Acceptance-Test-OpenSource
+# Acceptance-Test-OpenSource
 
 Acceptance test para Lenguaje Gherkin
