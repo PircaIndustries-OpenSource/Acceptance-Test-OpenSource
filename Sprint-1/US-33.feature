@@ -1,6 +1,5 @@
 Feature: US-33: Canales de contacto y formulario
 
-
   Como visitante interesado (Lead potencial)
   Quiero disponer de un formulario de contacto directo
   Para establecer comunicación comercial o técnica con el equipo de soporte sin abandonar la plataforma.
