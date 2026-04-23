@@ -1,4 +1,4 @@
-Feature: US-30: Visualización de propuesta de valor
+Feature: US-29: Visualización de propuesta de valor
 
   Como profesional del sector construcción que visita el sitio web, 
   quiero conocer la propuesta de valor y funcionalidades principales de Kipu 
