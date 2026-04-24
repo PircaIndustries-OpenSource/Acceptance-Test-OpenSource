@@ -1,7 +1,8 @@
 Feature: US-32: Misión y visión de PircaIndustries
 
-Quiero consultar la información institucional y la dirección estratégica de PircaIndustries (misión y visión)
-Para evaluar el respaldo corporativo, validar la viabilidad a largo plazo del proyecto Kipu y generar confianza antes de registrarme.
+Como visitante potencial
+Quiero consultar la información institucional y la dirección estratégica de PircaIndustries
+Para validar la viabilidad a largo plazo del proyecto Kipu y generar confianza antes de registrarme.
 
   Scenario: Exposición de la identidad corporativa
     Given que el visitante potencial se encuentra explorando el sitio web público
